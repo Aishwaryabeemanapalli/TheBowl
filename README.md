@@ -9,6 +9,7 @@ Instructions to run the project:
 4) The user wants to start the xampp server by starting their apache and myql in their xampp control panel.
 5) The user wants to open PHP Myadmin and then create a database according to the connection file in the project. Then import the sql file to the database from the respective project folder.
 6) Then the user can run the project by typing localhost/project_folder_name in their web browser.
+
 Starting the Project in Detail:
 •	Download the project as zip.
 •	Extract the zip file.
